@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\BROYOUX\Documents\Application\fabulouscorp\resources\views/page/auth/login.blade.php ENDPATH**/ ?>
